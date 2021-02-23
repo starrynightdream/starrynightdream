@@ -1,4 +1,7 @@
-### Hi there 👋
+### =w=
+
+- 不停反复横跳的人，所以我也不知道怎么总结自己。
+- 所以顺其自然吧。无为而胜强求。
 
 <!--
 **starrynightdream/starrynightdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
