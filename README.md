@@ -3,6 +3,8 @@
 - 不停反复横跳的人，所以我也不知道怎么总结自己。
 - 所以顺其自然吧。无为而胜强求。
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starrynightdream&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **starrynightdream/starrynightdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
